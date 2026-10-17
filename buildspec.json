@@ -36,8 +36,8 @@
             "bundleId": "com.example.plugintemplate-for-obs"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
+    "name": "agenda-tv-freeze",
+    "displayName": "Agenda TV Scene Freeze",
     "version": "1.0.0",
     "author": "Your Name Here",
     "website": "https://example.com",
